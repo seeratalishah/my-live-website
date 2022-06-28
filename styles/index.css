@@ -1,0 +1,35 @@
+body{
+    background-color: #800033;
+    color: #ebebe0;
+    font-family: 'Roboto', sans-serif;
+    max-width: 600px;
+    margin: 0 auto;  
+    padding: 20px;
+}
+
+h1{
+    font-size: 48px;
+    line-height: 1.5;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+li{
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+a{
+    display: block;
+    color: #80ff80;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-top: 40px;
+}
